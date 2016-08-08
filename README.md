@@ -1,5 +1,7 @@
 # Moving Object Tracking Algorithms (MOTA) evaluation toolkit
 ### An  evaluation toolkit for visual object tracking using different techniques. This repository contains the evaluation toolkit as a set of Matlab scripts, a documentation and a set of integration examples.
+![alt tag](https://raw.githubusercontent.com/GKalliatakis/MOTA-toolkit/master/mota_overview.png)
+
 
 ### Introduction
 The goal of this Visual Tracking exercise is to learn how to use basic tracking algorithms and evaluate their performances. 
