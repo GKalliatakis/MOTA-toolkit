@@ -1,4 +1,6 @@
 # Moving Object Tracking Algorithms (MOTA) evaluation toolkit
+<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
+
 ### An  evaluation toolkit for visual object tracking using different techniques. This repository contains the evaluation toolkit as a set of Matlab scripts, a documentation and a set of integration examples.
 ![alt tag](https://raw.githubusercontent.com/GKalliatakis/MOTA-toolkit/master/mota_overview.png)
 
